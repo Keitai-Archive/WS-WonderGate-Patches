@@ -10,7 +10,7 @@ In the first set of MobileWonderGate compatible games released for WonderSwan, t
 - Sennou Millenium (線脳　MILLENNIUM)
 - Tarepanda no Gunpey (たれぱんだのぐんぺい)
 
-The following games have a WonderGate key input sequence that does *not* need to be done at boot.
+The following games have a WonderGate key input sequence that does *not* need to be done at boot. However, the input sequence is long and a bit hard to remember, so there is a patch that toggles the WonderGate option automatically.
 - Final Lap 2000:  	In ranking mode, press Y1/Y3/Y4/Y2 in that order
 
 # Additional Patches
