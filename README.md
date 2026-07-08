@@ -13,7 +13,7 @@ In the first set of MobileWonderGate compatible games released for WonderSwan, t
 # Additional Patches
 The following is a collection of miscellaneous patches related to MobileWonderGate features.
 
-##Star Hearts: Hoshi to Daichi no Shisha (スターハーツ ～星と大地の使者～)
+## Star Hearts: Hoshi to Daichi no Shisha (スターハーツ ～星と大地の使者～)
 Star Hearts in its original form is unable to save when using the **mednafen** emulator because the cartridge header declares a 8KB save while the game actually uses a 32KB save. This patch edits the header so that mednafen correctly reads the game as a 32KB cartridge. This patch is not needed for other emulators such as Ares and Mesen2.
 
 
