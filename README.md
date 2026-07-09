@@ -19,7 +19,7 @@ One game requires a button sequence on a specific menu screen, which can be diff
 
 | Game |  Original Key Combo  | Notes |
 | --- | --- | --- |
-| Final Lap 2000 (FINALLAP 2000) | In ranking mode, press Y1/Y3/Y4/Y2 in that order | | 
+| Final Lap 2000 (FINALLAP 2000) | In ranking mode, press Y1/Y3/Y4/Y2 in that order | Optional: Menu option can still be activated in emulator | 
 
 # Additional Patches
 The following is a collection of miscellaneous patches related to MobileWonderGate features.
